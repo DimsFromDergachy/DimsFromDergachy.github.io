@@ -9,7 +9,7 @@
 ### Summary:
 
 * `.Net` developer with `13` years of experience
-* Ready to go with well-known programming principles: Design patterns, Clean code, DRY, SOLID, TDD, CI/CD, etc.
+* Ready to go with well-known programming principles: `Design patterns`, `Clean code`, `DRY`, `SOLID`, `TDD`, `CI/CD`, etc.
 * Complex understanding of common programming paradigms: imperative `OOP` & declarative `FP`
 * Experience on competitive programming
 * Positive influence on team: conduct knowledge sharing, help with onboarding, build friendly relationship
@@ -27,11 +27,11 @@
 - **Project:** A tool that migrates & transforms database entities during the upgrade to a new topology.
 - **Tech stack:** `.Net Core`, `Entity Framework`, `Postgre`, `Groovy`, `Docker`
 - **Tasks:**
-    * Communication with a customer, conduct demos on English
+    * Communication with a customer, conduct demos (English)
     * Discuss architecture, prepare technical proposals, investigate and document unknown tasks
     * Work with release scope, prepare estimations, clarify requirements and technical details
     * Discuss and clarify acceptance criteria
-    * Help with UI automation framework (Selenium, Gherkin)
+    * Help with UI automation framework (`Selenium`, `Gherkin`)
     * Help with onboarding, conduct knowledge sharing
 
 ### Mirantis Inc, Saratov _(2019 - 2021)_ - Advanced Software Engineer
@@ -43,7 +43,7 @@
     * Discuss architecture, prepare technical proposals, investigate and document unfamiliar tasks
     * Work with release scope, prepare estimations, clarify requirements and technical details
     * Discuss and clarify acceptance criteria
-    * Help with UI Automation Framework (Selenium, Gherkin)
+    * Help with UI Automation Framework (`Selenium`, `Gherkin`)
     * Help with onboarding, conduct knowledge sharing
 
 ### Mirantis Inc, Saratov _(2016 - 2019)_ - Software Engineer
