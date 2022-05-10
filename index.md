@@ -81,4 +81,10 @@
 ``` csharp
 // Married, 2 children, a christian
 // Hobbies: Sci-Fi, bike, anime, volley, ping-pong, kicker, chess
+
+// Keen on:
+//    * Functional programming (Haskell)
+//    * Competitive programming
+//    * Cloud stack (AWS, Azure, etc.)
+//    * GoLang
 ```
