@@ -67,7 +67,7 @@
 ### Lapic LTD, Saratov _(2009 - 2014)_ - Math & Software Engineer
 
 - **Project:** A program complex for inspect of products of the machine industry such as gears, engine parts, turbine parts, etc. according to the GOSTs.
-- **Tech stack:** `C++/CLI`, `3D Geometry`, `3D Visualisation`
+- **Tech stack:** `C++/CLI`, `3D Geometry`, `3D Visualisation`, `MathLab`
 - **Tasks:**
     * Prepare Math & Geometry calculation including 3D visualisation
     * Investigate GOST’s documents
