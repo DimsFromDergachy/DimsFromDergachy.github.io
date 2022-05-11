@@ -11,8 +11,8 @@
 * `.Net` developer with `13` years of experience
 * Ready to go with well-known programming principles: `Design patterns`, `Clean code`, `DRY`, `SOLID`, `TDD`, `CI/CD`, etc.
 * Complex understanding of common programming paradigms: imperative `OOP` & declarative `FP`
-* Experience on competitive programming
-* Positive influence on team: conduct knowledge sharing, help with onboarding, build friendly relationship
+* Experience in competitive programming
+* Positive influence on the team: conduct knowledge sharing, help with onboarding, build friendly relationship
 * Good communication skills: English ~ `B1`, Russian native
 
 ### Core Skills:
@@ -60,16 +60,16 @@
 - **Project:** A WPF-based UI application for administrators of chemical laboratory. Windows services as a backend part.
 - **Tech stack:** `C#`, `.Net Framework`, `MEF`, `WPF`, `WCF`
 - **Tasks:**
-    * Applying new style according rebranding guide
+    * Applying new style according to rebranding guide
     * Implement new features
     * Improve test coverage
 
 ### Lapic LTD, Saratov _(2009 - 2014)_ - Math & Software Engineer
 
-- **Project:** A program complex for inspect of products of the machine industry such as gears, engine parts, turbine parts, etc. according to the GOSTs.
+- **Project:** A program complex for inspecting of products of the machine industry such as gears, engine parts, turbine parts, etc. according to the GOSTs.
 - **Tech stack:** `C++/CLI`, `3D Geometry`, `3D Visualisation`, `MathLab`
 - **Tasks:**
-    * Prepare Math & Geometry calculation including 3D visualisation
+    * Prepare Maths calculation including Geometry and 3D visualisation
     * Investigate GOST’s documents
     * Prepare a set of control programs
 
@@ -79,8 +79,8 @@
 
 ## About me:
 ``` csharp
-// Married, 2 children, a christian
-// Hobbies: Sci-Fi, bike, anime, volley, ping-pong, kicker, chess
+// Married, 2 children, a Christian
+// Hobbies: Sci-Fi, bike, anime, volley, ping-pong, table football, chess
 
 // Keen on:
 //    * Functional programming (Haskell)
