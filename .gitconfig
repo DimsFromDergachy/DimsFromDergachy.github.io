@@ -12,10 +12,12 @@
 	co = checkout
 	cp = cherry-pick
 	fa = fetch --all -p
-	pl = pull origin
-	lg = log --all --graph --pretty='🐦 %C(magenta)%h %C(green)[%ar]%C(reset) %C(blue)(%al)%C(auto)% D 🔊 \"%C(default)%s\"'
-	# → ｢｣ 🦄🦓🎲🚀💡📌❤️💛💚💬✔️🚈⭕🤖🔘🔊🐔🔶🔥🏠⛪🌍💡🎄🌲🦋💧💊🌷🐞🐇🍓🐦
+	lg = log --all --graph --pretty='👾 %C(magenta)%h %C(green)[%ar]%C(reset) %C(blue)(%al)%C(auto)% D 🔊 \"%C(default)%s\"'
+	# → ｢｣ 🦄🦓🎲🚀💡📌❤️💛💚💬✔️🚈⭕🔴🤖🔘🔊🐔🔶🔥🏠⛪🌍💡🎄🌲🦋💧💊🌷🐞🐇🍓🐦🌹🚦👾🦖
+	rb = rebase
 	rf = lg --reflog
+	rc = rebase --continue
+	rs = restore --staged .
 	st = status -s
 	uc = reset HEAD^ --soft
 	wt = worktree
