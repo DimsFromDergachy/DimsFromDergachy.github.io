@@ -1,90 +1,104 @@
-# Dmitry Tyurnikov | Advanced Software Engineer
+# Дмитрий Тюрников | Ведущий разработчик (`Senior`)
 
 ``` csharp
-// Location: Saratov, Russia
-// Email: DimsFromDergachy@outlook.com
-// Skype, Telegram, Github: @DimsFromDergachy
+// Место жительства: Саратов, Россия
+// Почта: DimsFromDergachy@outlook.com
+// Телеграм, Гитхаб: @DimsFromDergachy
+// Резюме на английском: https://dimsfromdergachy.github.io/
 ```
 
 ### Summary:
 
-* `.Net` developer with `13` years of experience
-* Ready to go with well-known programming principles: `Design patterns`, `Clean code`, `DRY`, `SOLID`, `TDD`, `CI/CD`, etc.
-* Complex understanding of common programming paradigms: imperative `OOP` & declarative `FP`
-* Experience in competitive programming
-* Positive influence on the team: conduct knowledge sharing, help with onboarding, build friendly relationship
-* Good communication skills: English ~ `B1`, Russian native
+* `.Net` разработчик с `15+` лет опыта
+* Готовность следовать хорошо зарекомендовавшим себя практикам разработки: `Паттерны проектирования`, `Чистый код`, `DRY`, `SOLID`, `TDD`, `CI/CD`, и т.д.
+* Глубокое понимание основных парадигм программирования: Императивное `ООП` и декларативное `ФП`
+* Опыт в олимпиадном программировании
+* Опыт управления небольшой команды (`Team Lead`)
+* Положительное влияние на команду: проведение обучающих лекций, помощь новым членам команды, построение дружеских отношений
+* Навыки взаимодействия: русский язык родной, английский язык ~ `B1`
 
-### Core Skills:
-* Programming languages: `C#`, `C++/CLI`
-* Technologies & Frameworks: `.Net Framework`, `.Net Core`, `Entity Framework`, `LINQ`, `WPF`, `WIX`
-* Databases: `T-SQL`, `Postgre`, `MSSQL`
-
----
-## Experience:
-### Mirantis Inc, Saratov _(2021-2022)_ - Advanced Software Engineer / Senior Software Engineer
-
-- **Project:** A tool that migrates & transforms database entities during the upgrade to a new topology.
-- **Tech stack:** `.Net Core`, `Entity Framework`, `Postgre`, `Groovy`, `Docker`
-- **Tasks:**
-    * Communication with a customer, conduct demos (English)
-    * Discuss architecture, prepare technical proposals, investigate and document unknown tasks
-    * Work with release scope, prepare estimations, clarify requirements and technical details
-    * Discuss and clarify acceptance criteria
-    * Help with UI automation framework (`Selenium`, `Gherkin`)
-    * Help with onboarding, conduct knowledge sharing
-
-### Mirantis Inc, Saratov _(2019 - 2021)_ - Advanced Software Engineer
-
-- **Project:** Instruments for backing up data of complex systems including files, databases, configuration information. Support full/incremental backup by schedule. Includes a self-hosted WPF standalone application or a bunch of powershell scripts for advanced users.
-- **Tech stack:** `C#`, `.Net Framework`, `WPF`, `Powershell`, `Postgre`, `MSSQL`, `Oracle`, `WIX`, `AWS S3 API`
-- **Tasks:**
-    * Communication with a customer, conduct demos (English)
-    * Discuss architecture, prepare technical proposals, investigate and document unfamiliar tasks
-    * Work with release scope, prepare estimations, clarify requirements and technical details
-    * Discuss and clarify acceptance criteria
-    * Help with UI Automation Framework (`Selenium`, `Gherkin`)
-    * Help with onboarding, conduct knowledge sharing
-
-### Mirantis Inc, Saratov _(2016 - 2019)_ - Software Engineer
-
-- **Project:** A web-service with plug-in architecture for automatic migration of different types of data.
-- **Tech stack:** `C#`, `ASP Net Core`, `CSS`, `Angular`
-- **Tasks:**
-    * Implement back-end and front-end features
-    * Implement add-ons for 3-rd party components
-    * Improve stability of UI Automation (`Selenium`, `Gherkin`)
-
-### Mirantis Inc, Saratov _(2014 - 2016)_ - Junior Software Engineer / Software Engineer
-
-- **Project:** A WPF-based UI application for administrators of chemical laboratory. Windows services as a backend part.
-- **Tech stack:** `C#`, `.Net Framework`, `MEF`, `WPF`, `WCF`
-- **Tasks:**
-    * Applying new style according to rebranding guide
-    * Implement new features
-    * Improve test coverage
-
-### Lapic LTD, Saratov _(2009 - 2014)_ - Math & Software Engineer
-
-- **Project:** A program complex for inspecting of products of the machine industry such as gears, engine parts, turbine parts, etc. according to the GOSTs.
-- **Tech stack:** `C++/CLI`, `3D Geometry`, `3D Visualisation`, `MathLab`
-- **Tasks:**
-    * Prepare Maths calculation including Geometry and 3D visualisation
-    * Investigate GOST’s documents
-    * Prepare a set of control programs
+### Ключевые навыки:
+* Языки разработки: `C#`, `C++/CLI`
+* Технологии и фреймворки: `.Net Core`, `Entity Framework`, `LINQ`, `Docker`, `RabbitMQ`, `Kafka`
+* Базы данных: `T-SQL`, `Postgre`, `MSSQL`
 
 ---
-## Education:
-* Saratov State University, Saratov _(2005 - 2011)_ — `Math. Computer science.`
+## Опыт работы:
+### АтомСтройЭкспорт АО, Москва _(2024-2025)_ - Ведущий разработчик / Руководитель команды (`Senior` / `Lead`)
 
-## About me:
+### АтомСтройЭкспорт АО, Москва _(2022-2023)_ - Опытный разработчик (`Middle+`)
+
+- **Проект:** Платформа для управления сроками и централизованного контроля рисков сооружения сложных инженерных объектов.
+- **Технический стек:** `.Net Core`, `Entity Framework`, `Postgre`, `React-JS`, `Docker`, `RabbitMQ`
+- **Задачи:**
+    * Планирование релиза, оценка трудозатрат, обсуждение и уточнение требований
+    * Реализация требований в виде микросервисной архитектуры
+    * Наставничество внутри команды
+
+### Мирантис ИТ, Саратов _(2021-2022)_ - Опытный разработчик / Ведущий разработчик (`Middle+` / `Senior`)
+
+- **Проект:** Инструмент миграции и преобразования сущностей в базе данных во время обновления топологии.
+- **Технический стек:** `.Net Core`, `Entity Framework`, `Postgre`, `Groovy`, `Docker`, `RabbitMQ`
+- **Задачи:**
+    * Общение с заказчиком, презентация продукта (английский язык)
+    * Обсуждение архитектуры проекта, подготовка технических предложений, исследование и документирование неизвестных подходов
+    * Планирование релиза, подготовка оценок, уточнение требований и технических деталей
+    * Обсуждение и уточнение критериев приемки
+    * Помощь с фреймворком автоматического тестирования (`Selenium`, `Gherkin`)
+    * Помощь новым членам команды, проведение обучающих лекций
+
+### Мирантис ИТ, Саратов _(2019 - 2021)_ - Опытный разработчик (`Middle+`)
+
+- **Проект:** Инструмент для создания резервных копий сложных систем: включая файлы, базы данных, конфигурационные настройки. Поддержка полных и инкрементальных копий по расписанию. Включает в себя приложение (WPF) или набор скриптов (Powershell) для опытных пользователей.
+- **Технический стек:** `C#`, `.Net Framework`, `WPF`, `Powershell`, `Postgre`, `MSSQL`, `Oracle`, `WIX`, `AWS S3 API`
+- **Задачи:**
+    * Общение с заказчиком, презентация продукта (английский язык)
+    * Обсуждение архитектуры проекта, подготовка технических предложений, исследование и документирование неизвестных подходов
+    * Планирование релиза, подготовка оценок, уточнение требований и технических деталей
+    * Обсуждение и уточнение критериев приемки
+    * Помощь с фреймворком автоматического тестирования (`Selenium`, `Gherkin`)
+    * Помощь новым членам команды, проведение обучающих лекций
+
+### Мирантис ИТ, Саратов _(2016 - 2019)_ - Разработчик (`Middle`)
+
+- **Проект:** Веб-сервис с набором плагинов для автоматической миграции различных типов данных.
+- **Технический стек:** `C#`, `ASP Net Core`, `CSS`, `Angular`
+- **Задачи:**
+    * Реализация серверной и пользовательской частей приложения
+    * Реализация плагинов для сторонних компонентов
+    * Улучшение стабильности автоматического тестирования
+
+### Мирантис ИТ, Саратов _(2014 - 2016)_ - Младший разработчик / Разработчик (`Junior` / `Middle`)
+
+- **Проект:** Приложение для администрации программного комплекса химических лабораторий. Включает в себя: хранение результатов экспериментов и отчетов, разграничение прав доступа, аудит безопасности.
+- **Технический стек:** `C#`, `.Net Framework`, `MEF`, `WPF`, `WCF`
+- **Задачи:**
+    * Переход на новый стиль согласно предоставленной документации
+    * Реализация новых функций приложения
+    * Улучшение тестового покрытия
+
+### Лапик-П, Саратов _(2009 - 2014)_ - Инженер-математик, разработчик (`Middle`)
+
+- **Проект:** Программный комплекс для проверки изделий машинностроения таких как: зубчатые колеса, части двигателей, части турбин, и т.д. в соответствии ГОСТам.
+- **Технический стек:** `C++/CLI`, `3D Geometry`, `3D Visualisation`, `MathLab`
+- **Задачи:**
+    * Подготовка математических и геометрических рассчётов
+    * Изучение ГОСТ документов
+    * Подготовка набора управляющих программ
+
+---
+## Образование:
+* Саратовский Государственный Университет, Саратов _(2005 - 2011)_ — `Математик, Системный программист`
+
+## Обо мне:
 ``` csharp
-// Married, 2 children, a Christian
-// Hobbies: Sci-Fi, bike, anime, volley, ping-pong, table football, chess
+// Женат, 2 детей, христианин
+// Увлечения: научная фантастика, аниме, настольный теннис, настольный футбол, шахматы
 
-// Keen on:
-//    * Functional programming (Haskell)
-//    * Competitive programming
-//    * Cloud stack (AWS, Azure, etc.)
-//    * GoLang
+// Вызывает интерес:
+//    - Функциональное программирование (Haskell)
+//    - Спортивное программирование
+//    - Облачные технологии (AWS, Azure, etc.)
+//    - GoLang, Java, Game-Dev
 ```
+
